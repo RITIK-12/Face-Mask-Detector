@@ -12,7 +12,8 @@ Dataset Used [Face Mask Detection Data](https://www.kaggle.com/aneerbanchakrabor
 
 Detecting facemask in webcam video stream.
 
-![Face mask detection](https://user-images.githubusercontent.com/54806252/93716068-e7214f80-fb8a-11ea-906a-196b9037432d.gif)
+![Face mask detection1](https://user-images.githubusercontent.com/54806252/93716353-edb0c680-fb8c-11ea-9721-ba3f622b1e92.gif)
+
 
 
 
